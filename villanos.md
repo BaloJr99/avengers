@@ -1,4 +1,4 @@
 # Villanos
 * Dr. Doom
 * Red Skull
-* Capitan América
+* Dr. Chavez
